@@ -48,11 +48,15 @@ figcaption
 //////////Background_Color///////////
 .bg-color
   &-1
-    background-color: #E8F6F1 !important
+    background-color: #F7FAEF !important
   &-2
-    background-color: #FFE69B
+    background-color: #F0F6F9
   &-3
-    background-color: #D5D1E2
+    background-color: #E9F8FC
+  &-4
+    background-color: #F4ECE4
+  &-5
+    background-color: #E3F1FA
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -85,8 +89,101 @@ figcaption
     background-image: url("../assets/curso/bg1.svg") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
-    background-position: bottom
+    background-image: url("../assets/curso/bg2.svg") !important
+    background-position: top
+  &-3
+    background-image: url("../assets/curso/bg3.svg") !important
+    background-position: top
+  &-4
+    background-image: url("../assets/curso/bg4.svg") !important
+    background-position: top
+    background-size: cover
+  &-5
+    background-image: url("../assets/curso/bg5.png") !important
+    background-position: top
+    background-size: contain
+  &-6
+    background-image: url("../assets/curso/bg6.svg") !important
+    background-position: top
+    background-size: cover
+  &-7
+    background-image: url("../assets/curso/bg7.svg") !important
+    background-position: top
+    background-size: cover
   &-slider
     //background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
+
+/////////IMG_100%_CAJON_MEDIO/////////
+.pst
+  position: relative
+  z-index: 2
+  &-2
+    position: absolute
+    top: -53px
+    right: 22px
+    width: 119px
+    @media screen and (max-width: $bp-max-lg)
+      right: 0
+.banner-text
+  background-color: #ffffff
+  box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  border-radius: 10px
+  padding: 20px 30px
+  margin-top: -60px
+  @media screen and (max-width: $bp-max-sm)
+    margin-top: -10px
+
+.text-end 
+    text-align: left !important
+  
+///////////////TABLAS///////////////////
+.tbl 
+  table td
+    text-align: start !important
+  th, td, table thead th, .tabla-a th 
+    border: 2px solid #B5B5B5
+  table
+    table-layout: auto
+  
+//////////////CUSTON SLYDER-A////////
+.slyder-a__bullets__item 
+  background-color: #AFDCE4
+  border: #AFDCE4
+.slyder-a__bullets__item--active
+  background-color: #2EBDE1
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: #C5A07A
+
+//////////CUSTOM BOTONES SLYDER-F/////////
+.slyder-f__btn
+  height: 35px
+  width: 35px
+  max-width: 35px
+  background-color: $color-acento-botones
+  border-radius: 50%
+  padding: 0 !important
+  margin: 0 auto
+  .fa-chevron-left
+    font-size: 20px
+  .fa-chevron-right
+    font-size: 20px
+  
+.slyder-f
+    align-items: center
+
+    .slyder-f__main
+      width: 70%
+
+      @media (min-width: 769px)
+        width: 80%
+
+////////SOMBRA CAJON//////////
+.box-shadow
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  padding: 20px;
+  border-radius: 8px; /* Opcional, para bordes redondeados */
+
+table caption
+  font-weight: 400 !important
