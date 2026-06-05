@@ -190,7 +190,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=zkAIxjlqmV4&t=10s" target="_blank")
                     span Ir al video
-                    i.fas.fa-file-download
+                    i.fa-brands.fa-youtube
     
     separador
     

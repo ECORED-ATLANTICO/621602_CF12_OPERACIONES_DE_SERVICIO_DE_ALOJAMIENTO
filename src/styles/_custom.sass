@@ -92,12 +92,15 @@ figcaption, table caption
   &-1
     background-image: url("../assets/curso/bg1.svg") !important
     background-position: top
+    background-size: cover
   &-2
     background-image: url("../assets/curso/bg2.svg") !important
     background-position: top
+    background-size: cover
   &-3
     background-image: url("../assets/curso/bg3.svg") !important
     background-position: top
+    background-size: cover
   &-4
     background-image: url("../assets/curso/bg4.svg") !important
     background-position: top
@@ -130,13 +133,6 @@ figcaption, table caption
 .pst
   position: relative
   z-index: 2
-  &-2
-    position: absolute
-    top: -53px
-    right: 22px
-    width: 119px
-    @media screen and (max-width: $bp-max-lg)
-      right: 0
 .banner-text
   background-color: #ffffff
   box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
@@ -145,7 +141,20 @@ figcaption, table caption
   margin-top: -60px
   @media screen and (max-width: $bp-max-sm)
     margin-top: -10px
-
+.pst-2
+  position: absolute
+  top: -53px
+  right: 22px
+  width: 119px
+  @media screen and (max-width: $bp-max-lg)
+    right: 0
+.pst-3
+  position: absolute
+  top: -64px
+  right: 22px
+  width: 119px
+  @media screen and (max-width: $bp-max-lg)
+    right: 0
 .text-end 
     text-align: left !important
   
@@ -218,3 +227,7 @@ figcaption, table caption
   .col
     .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
       background-color: #D7E4FB
+
+///////wibth avatar left///////////
+.tarjeta-avatar-b__img 
+    min-width: 24%
