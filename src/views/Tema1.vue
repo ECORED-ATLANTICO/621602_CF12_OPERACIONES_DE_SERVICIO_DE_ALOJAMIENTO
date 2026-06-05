@@ -32,8 +32,8 @@
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.1 Evolución de los medios de pago 
-    
-    img(src="@/assets/curso/tema1/4.png", alt="Imagen decorativa")
+    .bg-full-width
+      img(src="@/assets/curso/tema1/4.png", alt="Imagen decorativa")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
@@ -196,8 +196,8 @@
     
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3 Proceso de cobro y soportes de pago
-    
-    img(src="@/assets/curso/tema1/18.png", alt="Imagen decorativa")
+    .bg-full-width
+      img(src="@/assets/curso/tema1/18.png", alt="Imagen decorativa")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
