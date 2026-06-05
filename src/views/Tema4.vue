@@ -59,7 +59,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema4/4.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema4/4-1.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Procedimientos Clave en los Procesos de Pago Hotelero
               p En la operación hotelera también es importante cumplir procedimientos relacionados con:
@@ -148,19 +148,19 @@
           p.mb-0 La protección al consumidor busca asegurar prácticas comerciales organizadas y transparentes que permitan evitar :
     
     .row.justify-content-center.mb-5
-      .col-lg-2.mb-3.mb-lg-0
+      .col-md-6.col-lg-4.col-xl-2.mb-3.mb-xl-0
         .bg-fondo-10.p-3.tarjeta.h-100
           h5.mb-0.text-center Cobros no autorizados.
-      .col-lg-2.mb-3.mb-lg-0
+      .col-md-6.col-lg-4.col-xl-2.mb-3.mb-xl-0
         .bg-fondo-10.p-3.tarjeta.h-100
           h5.mb-0.text-center Diferencias en facturación.
-      .col-lg-2.mb-3.mb-lg-0
+      .col-md-6.col-lg-4.col-xl-2.mb-3.mb-xl-0
         .bg-fondo-10.p-3.tarjeta.h-100
           h5.mb-0.text-center Información engañosa.
-      .col-lg-2.mb-3.mb-lg-0
+      .col-md-6.col-lg-4.col-xl-2.mb-3.mb-xl-0
         .bg-fondo-10.p-3.tarjeta.h-100
           h5.mb-0.text-center Cargos ocultos.
-      .col-lg-2.mb-3.mb-lg-0
+      .col-md-6.col-lg-4.col-xl-2.mb-3.mb-xl-0
         .bg-fondo-10.p-3.tarjeta.h-100
           h5.mb-0.text-center Inconsistencias transaccionales.
     
@@ -172,7 +172,7 @@
           p.mb-0 Por esta razón, el personal encargado de recepción, caja o facturación debe brindar información precisa y resolver oportunamente las inquietudes relacionadas con la cuenta huésped.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0.order-lg-2
+      .col-md-8.col-lg-3.mb-3.mb-lg-0.order-lg-2
         figure
           img(src="@/assets/curso/tema4/7.png", data-aos="zoom-in")
       .col-lg-9.order-lg-1
@@ -208,7 +208,7 @@
         p.banner-text La transformación digital ha modificado significativamente la manera en que los establecimientos de alojamiento gestionan las transacciones financieras y la experiencia de pago del huésped. Actualmente, muchos hoteles implementan plataformas tecnológicas integradas que permiten desarrollar procesos más ágiles, automatizados y conectados, facilitando tanto la operación administrativa como la interacción del cliente con los servicios financieros del establecimiento.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0
+      .col-md-8.col-lg-3.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema4/10.png", data-aos="zoom-in")
       .col-lg-9

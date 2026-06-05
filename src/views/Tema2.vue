@@ -247,7 +247,7 @@
         p.banner-text La conciliación corresponde al proceso mediante el cual se verifican y comparan las transacciones registradas durante la operación hotelera con los valores efectivamente recibidos por el establecimiento. Este procedimiento permite validar pagos, identificar diferencias y garantizar control financiero dentro de las áreas de recepción y caja.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0
+      .col-md-8.col-lg-3.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/11.png", data-aos="zoom-in")
       .col-lg-9
@@ -286,7 +286,7 @@
       h2 2.4 Atención al huésped durante el proceso de pago
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3
+      .col-md-6.col-lg-3.mb-3
         figure
           img(src="@/assets/curso/tema2/15.png", data-aos="zoom-in")
       .col-lg-9
@@ -309,7 +309,7 @@
         figcaption Fuente: SENA, 2026
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-2.mb-3.mb-lg-0
+      .col-md-6.col-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/18.png", data-aos="zoom-in")
       .col-lg-10
@@ -317,7 +317,7 @@
           p.mb-0 En el proceso de pago dentro de la operación hotelera, es frecuente que el huésped solicite la revisión de consumos, la aclaración de cargos o la actualización de datos de facturación. Ante estas situaciones, el personal de recepción debe actuar con disposición, respeto y criterio técnico, verificando la información en el <em>Property Management System</em> (PMS) y proporcionando respuestas claras y oportunas. Una atención adecuada en esta etapa contribuye a prevenir conflictos, mejorar la experiencia del cliente y consolidar la imagen institucional del establecimiento.
     
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-3.mb-3.mb-lg-0.order-lg-2
+      .col-md-6.col-lg-3.mb-3.mb-lg-0.order-lg-2
         figure
           img(src="@/assets/curso/tema2/19.png", data-aos="zoom-in")
       .col-lg-9.order-lg-1

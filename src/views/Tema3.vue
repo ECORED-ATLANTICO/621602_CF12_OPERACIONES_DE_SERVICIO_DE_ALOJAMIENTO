@@ -27,7 +27,7 @@
       h2 3.1 Integración de PMS y plataformas de pago
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3
+      .col-md-8.col-lg-3.mb-3
         figure
           img(src="@/assets/curso/tema3/3.png", data-aos="zoom-in")
       .col-lg-9
@@ -38,26 +38,26 @@
     p.mb-3 Además, la conexión entre PMS y plataformas financieras facilita procesos como:
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-3.mb-3.mb-lg-0.order-lg-2
+      .col-md-8.col-lg-3.mb-3.mb-lg-0.order-lg-2
         figure
           img(src="@/assets/curso/tema3/4.png", data-aos="zoom-in")
       .col-lg-9.order-lg-1
-        .row.mb-3
-          .col-lg-4.mb-3.mb-lg-0
+        .row.mb-3.justify-content-center
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
               .tarjeta.bg-color-4.h-100
                 .p-3
                   p.text-bold.mb-0 Preautorizaciones bancarias.
-          .col-lg-4.mb-3.mb-lg-0
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-down")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
               .tarjeta.bg-color-4.h-100
                 .p-3
                   p.text-bold.mb-0 Validación de tarjetas.
-          .col-lg-4.mb-3.mb-lg-0
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
@@ -65,14 +65,14 @@
                 .p-3
                   p.text-bold.mb-0 Pagos digitales.
         .row.mb-3
-          .col-lg-4.mb-3.mb-lg-0
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-down")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
               .tarjeta.bg-color-4.h-100
                 .p-3
                   p.text-bold.mb-0 Generación automática de facturas.
-          .col-lg-4.mb-3.mb-lg-0
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
@@ -100,7 +100,12 @@
       .col-lg-10(data-aos="fade-up")
         p.banner-text Las pasarelas de pago corresponden a plataformas tecnológicas que permiten procesar transacciones electrónicas entre el huésped, el hotel y las entidades financieras. Estas herramientas facilitan pagos seguros mediante tarjetas bancarias, transferencias, billeteras digitales y otros medios electrónicos utilizados actualmente en el sector turístico.
     
-    p.mb-5 En hotelería, las pasarelas de pago se utilizan principalmente para reservas en línea, pagos anticipados, garantías de estadía, pagos remotos y cobros digitales durante la entrada y salida de los huéspedes del hotel.
+    .bg-fondo-3.mb-5.p-4
+      .row.align-items-center
+        .col-lg-auto.mb-lg-0
+          img.d-none.d-lg-flex(src="@/assets/curso/tema3/2.svg").mx-auto
+        .col-lg
+          p.mb-0 En hotelería, las pasarelas de pago se utilizan principalmente para reservas en línea, pagos anticipados, garantías de estadía, pagos remotos y cobros digitales durante la entrada y salida de los huéspedes del hotel.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -177,9 +182,9 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
-          span TITULO
+          span Riesgos operativos frecuentes en transacciones hoteleras 
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/10.png", alt="La figura tres ilustra los riesgos operativos frecuentes que se presentan en transacciones hotelera. Se describen seis riesgos operativos a saber: pagos rechazados, cobros duplicados, errores de digitación, interrupciones de conexión, fallas de sincronización entre sistemas e inconsistencias de facturación.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/10.png", alt="La figura tres ilustra los riesgos operativos frecuentes que se presentan en transacciones hotelera. Se describen seis riesgos operativos a saber: pagos rechazados, cobros duplicados, errores de digitación, interrupciones de conexión, fallas de sincronización entre sistemas e inconsistencias de facturación.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/10-1.png", alt="La figura tres ilustra los riesgos operativos frecuentes que se presentan en transacciones hotelera. Se describen seis riesgos operativos a saber: pagos rechazados, cobros duplicados, errores de digitación, interrupciones de conexión, fallas de sincronización entre sistemas e inconsistencias de facturación.")
         figcaption Fuente: SENA, 2026
 
     .bg-fondo-3.mb-5.p-4
@@ -219,26 +224,26 @@
     p Asimismo, es importante brindar información clara al huésped sobre: 
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-3.mb-3.mb-lg-0
+      .col-md-8.col-lg-3.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema3/13.png", data-aos="zoom-in")
       .col-lg-9
-        .row.mb-3
-          .col-lg-4.mb-3.mb-lg-0
+        .row.mb-3.justify-content-center
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
               .tarjeta.bg-color-4.h-100
                 .p-3
                   p.text-bold.mb-0 Valores cobrados.
-          .col-lg-4.mb-3.mb-lg-0
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-down")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
               .tarjeta.bg-color-4.h-100
                 .p-3
                   p.text-bold.mb-0 Impuestos.
-          .col-lg-4.mb-3.mb-lg-0
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
@@ -246,14 +251,14 @@
                 .p-3
                   p.text-bold.mb-0 Medios de pago disponibles.
         .row
-          .col-lg-4.mb-3.mb-lg-0
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
               .tarjeta.bg-color-4.h-100
                 .p-3
                   p.text-bold.mb-0 Políticas de facturación.
-          .col-lg-4.mb-3.mb-lg-0
+          .col-md-6.col-lg-4.mb-3.mb-lg-0
             .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-down")
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')

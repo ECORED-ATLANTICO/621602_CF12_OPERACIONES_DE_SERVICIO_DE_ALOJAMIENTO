@@ -15,7 +15,7 @@
         p.mb-0 La gestión de pagos constituye uno de los procesos operativos más importantes dentro de los establecimientos de alojamiento, debido a que permite formalizar las transacciones económicas derivadas de la prestación de servicios hoteleros. En la actualidad, los hoteles utilizan diferentes medios de pago que facilitan el cobro de alojamiento, consumos, reservas y servicios adicionales, integrando herramientas tecnológicas que optimizan la operación y mejoran la experiencia del huésped.
     
     .row.justify-content-center.align-items-center
-      .col-lg-3.mb-3.order-lg-2
+      .col-md-8.col-lg-3.mb-3.order-lg-2
         figure
           img(src="@/assets/curso/tema1/3.png", data-aos="zoom-in")
       .col-lg-9.order-lg-1
@@ -97,7 +97,7 @@
           figure
             img(src="@/assets/curso/tema1/12.svg", data-aos="zoom-in")
       .row.justify-content-center
-        .col-md-4.col-lg-2
+        .col-md-4.col-lg-2.mb-4.mb-lg-0
           figure
             img(src="@/assets/curso/tema1/13.svg", data-aos="zoom-in")
         .col-lg-10.mb-4.mb-lg-0
@@ -117,7 +117,7 @@
       .col-lg-7.col-xl-6.mb-3.mb-lg-0
         .bg-fondo-4.p-5.tarjeta 
           p.mb-0 Además de facilitar la operación, la evolución de los medios de pago también ha fortalecido la integración entre áreas operativas, financieras y tecnológicas dentro de los hoteles, permitiendo un mayor control de las transacciones y una administración más eficiente de la información financiera.
-      .col-md-8.col-lg-5.col-xl-2.mb-3.mb-xl-0
+      .col-md-6.col-lg-5.col-xl-2.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema1/15.png", data-aos="zoom-in")
     
@@ -204,7 +204,7 @@
         p.banner-text El proceso de cobro corresponde al conjunto de actividades mediante las cuales el establecimiento formaliza el pago de los servicios prestados al huésped. Este procedimiento incluye validación de consumos, cálculo de valores, aplicación de impuestos, emisión de soportes y confirmación de la transacción.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-2.mb-3.mb-lg-0
+      .col-md-4.col-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/19.png", data-aos="zoom-in")
       .col-lg-10
@@ -238,7 +238,7 @@
             p.mb-0 Notificación digital (correo o mensaje) que valida que un pago fue procesado exitosamente a través de plataformas tecnológicas.
     
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-2.mb-3.mb-lg-0
+      .col-md-6.col-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/21.png", data-aos="zoom-in")
       .col-lg-10
@@ -264,7 +264,7 @@
           p.mb-0 La transformación digital ha generado importantes cambios en la manera en que los hoteles administran sus procesos de pago. Actualmente, muchos establecimientos implementan soluciones tecnológicas orientadas a agilizar las transacciones, reducir tiempos de espera y ofrecer experiencias más cómodas y seguras para los huéspedes.
     
     .row.justify-content-center.mb-5
-      .col-lg-6
+      .col-xl-6
         .bg-color-1.tarjeta.p-3
           p.mb-0.text-center Entre las principales tendencias en pagos hoteleros se destacan:
 
@@ -272,7 +272,7 @@
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-2
-            SlyderF(columnas="col-12 col-lg-4").p-4
+            SlyderF(columnas="col-12 col-lg-6 col-xl-4").p-4
               .bg-color-white.p-4.h-100.box-shadow.tarjeta
                 img(src='@/assets/curso/tema1/25.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 p.text-center Pagos sin contacto (<em>contactless</em>).
@@ -302,7 +302,7 @@
               img(src='@/assets/curso/tema1/24.png', alt='Descripción de la imagen')
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3
+      .col-md-8.col-lg-3.mb-3
         figure
           img(src="@/assets/curso/tema1/26.png", data-aos="zoom-in")
       .col-lg-9
