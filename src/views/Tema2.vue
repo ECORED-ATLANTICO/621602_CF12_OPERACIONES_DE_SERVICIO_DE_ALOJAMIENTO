@@ -38,7 +38,7 @@
     .row.justify-content-center.mb-5
       .col-lg-12
         .bg-color-1.tarjeta.p-3
-          p.mb-0 En la mayoría de los hoteles, estos movimientos se registran automáticamente en el PMS, permitiendo consolidar la información financiera del huésped dentro de una cuenta única. Esto facilita el control de consumos y la generación de la factura final al momento del check-out.
+          p.mb-0 En la mayoría de los hoteles, estos movimientos se registran automáticamente en el PMS, permitiendo consolidar la información financiera del huésped dentro de una cuenta única. Esto facilita el control de consumos y la generación de la factura final al momento del <em>check-out</em>.
     
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-3.mb-3.mb-lg-0
@@ -54,7 +54,7 @@
                 | Al momento de la reserva.
               li.mb-1.d-flex
                 i.fas.fa-circle.fa-xs.mt-2.bg-color-6
-                | Durante el check-in.
+                | Durante el <em>check-in</em>.
               li.mb-1.d-flex
                 i.fas.fa-circle.fa-xs.mt-2.bg-color-6
                 | Durante la estadía.
@@ -172,7 +172,7 @@
                   | Convenios empresariales.
                 li.mb-1.d-flex
                   i.fas.fa-circle.fa-xs.mt-2.bg-color-6
-                  | <em>Vouchers</em> turísticos.
+                  p.mb-0 <em>Vouchers</em> turísticos.
                 li.mb-1.d-flex
                   i.fas.fa-circle.fa-xs.mt-2.bg-color-6
                   | Autorizaciones corporativas.
@@ -262,7 +262,7 @@
           span Principales inconsistencias en procesos de pago hotelero
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/12.png", alt="La figura ilustra las principales inconsistencias en proceso de pago hotelero que pueden afectar los procesos de cobro y facturación dentro de los establecimientos de alojamiento. Las principales inconsistencias son: cobros duplicados, diferencias de caja, pagos rechazados, errores de digitación, fallas de conexión, facturación incorrecta y cargos no registrados.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/12-1.png", alt="La figura ilustra las principales inconsistencias en proceso de pago hotelero que pueden afectar los procesos de cobro y facturación dentro de los establecimientos de alojamiento. Las principales inconsistencias son: cobros duplicados, diferencias de caja, pagos rechazados, errores de digitación, fallas de conexión, facturación incorrecta y cargos no registrados.")
-        figcaption Fuente: SENA, 2026
+        figcaption Fuente: SENA, (2026).
     
     .bg-fondo-7.mb-5.p-4
       .row.align-items-center.justify-content-end
@@ -295,7 +295,7 @@
             figure
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/16.svg", data-aos="zoom-in")
           .col-lg.order-lg-1
-            p.mb-0(data-aos="fade-right") La atención al huésped durante el proceso de pago representa uno de los momentos más importantes dentro de la experiencia de servicio en los establecimientos de alojamiento. Aunque para muchos huéspedes el check-out marca el final de la estadía, para el hotel constituye una oportunidad clave para fortalecer la satisfacción, la percepción de calidad y la fidelización del cliente. Por esta razón, el proceso de cobro no debe limitarse únicamente a una transacción financiera, sino que debe desarrollarse como una experiencia organizada, clara y orientada al servicio.
+            p.mb-0(data-aos="fade-right") La atención al huésped durante el proceso de pago representa uno de los momentos más importantes dentro de la experiencia de servicio en los establecimientos de alojamiento. Aunque para muchos huéspedes el <em>check-out</em> marca el final de la estadía, para el hotel constituye una oportunidad clave para fortalecer la satisfacción, la percepción de calidad y la fidelización del cliente. Por esta razón, el proceso de cobro no debe limitarse únicamente a una transacción financiera, sino que debe desarrollarse como una experiencia organizada, clara y orientada al servicio.
         .bg-fondo-2.px-5.py-4
           p.mb-0 Durante esta etapa, el personal de recepción o caja debe brindar información precisa sobre los cargos realizados, los consumos registrados, los impuestos aplicados y los medios de pago disponibles. La claridad en la comunicación permite evitar inconformidades y generar confianza frente al manejo de la información financiera del huésped. Asimismo, la actitud del personal influye directamente en la percepción del servicio, especialmente cuando se presentan dudas, solicitudes de aclaración o inconsistencias relacionadas con la cuenta.
     
@@ -306,7 +306,7 @@
           span Buenas prácticas de atención al huésped durante el proceso de pago
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/17.png", alt="La figura ilustra las buenas prácticas de atención al huésped durante el proceso de pago. En la misma se detallan ocho prácticas que favorecen la atención clara cordial y organizada al cliente al momento de pagar su estadía. Estas ocho prácticas son: verificar la cuenta, explicar los cargos, confirmar los datos, ofrecer opciones de pago, resolver dudas con actitud de servicio, garantizar confidencialidad, entregar soportes y comprobantes y finalizar con amabilidad.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/17-1.png", alt="La figura ilustra las buenas prácticas de atención al huésped durante el proceso de pago. En la misma se detallan ocho prácticas que favorecen la atención clara cordial y organizada al cliente al momento de pagar su estadía. Estas ocho prácticas son: verificar la cuenta, explicar los cargos, confirmar los datos, ofrecer opciones de pago, resolver dudas con actitud de servicio, garantizar confidencialidad, entregar soportes y comprobantes y finalizar con amabilidad.")
-        figcaption Fuente: SENA, 2026
+        figcaption Fuente: SENA, (2026).
     
     .row.justify-content-center.align-items-center.mb-5
       .col-md-6.col-lg-2.mb-3.mb-lg-0
@@ -342,7 +342,7 @@
             p Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer el protocolo de atención en la recepción hotelera.
             
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="El ritmo de la cuenta T: Débitos, créditos y saldos"
+              texto="Formas de pago en hotelería"
               tiempo
               :audio="require('../assets/curso/podcast/podcast1.mp3')"
             )

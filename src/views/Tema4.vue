@@ -116,7 +116,7 @@
               tr.bg-color-white
                 td Integración
                 td Limitada
-                td Conectada al <em>PMS</em> y plataformas financieras
+                td Conectada al PMS y plataformas financieras
     
     .row.justify-content-center
       .col-lg-10
@@ -268,9 +268,9 @@
             p Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer el protocolo de atención en la recepción hotelera.
             
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="El ritmo de la cuenta T: Débitos, créditos y saldos"
+              texto="Tecnología y transformación digital de los pagos hoteleros"
               tiempo
-              :audio="require('../assets/curso/podcast/podcast1.mp3')"
+              :audio="require('../assets/curso/podcast/podcast2.mp3')"
             )
     
     .bg-fondo-11.mb-5.p-4.tarjeta
