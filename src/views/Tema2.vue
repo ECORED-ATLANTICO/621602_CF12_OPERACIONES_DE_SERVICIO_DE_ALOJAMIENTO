@@ -46,7 +46,7 @@
           img(src="@/assets/curso/tema2/4.png", data-aos="zoom-in")
       .col-lg-7
         LineaTiempoD.color-secundario
-          div(numero="1" titulo="Momentos de Aplicación de los Cobros") 
+          div(numero="1" titulo="Momentos de aplicación de los cobros") 
             p Dependiendo de las políticas del establecimiento, algunos cobros pueden realizarse:
             ul.lista-ul--color.ms-3
               li.mb-1.d-flex
@@ -61,7 +61,7 @@
               li.mb-1.d-flex
                 i.fas.fa-circle.fa-xs.mt-2.bg-color-6
                 | Al finalizar el servicio.          
-          div(numero="2" titulo="Garantías y Control de Cargos")
+          div(numero="2" titulo="Garantías y control de cargos")
             p Asimismo, ciertos hoteles solicitan anticipos o garantías de pago para asegurar la reserva y cubrir posibles consumos adicionales durante la permanencia del huésped.
             p La correcta administración de estos cargos permite:
             ul.lista-ul--color.ms-3
@@ -77,7 +77,7 @@
               li.mb-1.d-flex
                 i.fas.fa-circle.fa-xs.mt-2.bg-color-6
                 | Fortalecer la experiencia del cliente.
-          div(numero="3" titulo="Naciones Unidas - ODS") 
+          div(numero="3" titulo="Verificación del proceso de cobro") 
             p Durante el proceso de cobro, el personal debe verificar:
             ul.lista-ul--color.ms-3
               li.mb-1.d-flex
@@ -126,7 +126,7 @@
               figure
                 img(src='@/assets/curso/tema2/6.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
-              h4 Componentes de la Factura Hotelera
+              h4 Componentes de la factura hotelera
               p Dentro de la factura hotelera pueden incluirse:
               ul.lista-ul--color.ms-3
                 li.mb-1.d-flex
@@ -155,7 +155,7 @@
               figure
                 img(src='@/assets/curso/tema2/7.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
-              h4 Garantías de Pago en el Servicio Hotelero
+              h4 Garantías de pago en el servicio hotelero
               p Además de la facturación, los hoteles implementan mecanismos de garantía de pago orientados a reducir riesgos financieros y asegurar el cumplimiento de las obligaciones económicas derivadas de la prestación del servicio. Entre las garantías más utilizadas se encuentran:
               ul.lista-ul--color.ms-3
                 li.mb-1.d-flex

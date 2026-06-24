@@ -40,7 +40,7 @@
               figure
                 img(src='@/assets/curso/tema4/4.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
-              h4 Importancia de la Facturación Digital en Hotelería
+              h4 Importancia de la facturación digital en hotelería
               p Además de optimizar procesos administrativos, la facturación digital fortalece:
               ul.lista-ul--color.ms-3
                 li.mb-1.d-flex
@@ -61,7 +61,7 @@
               figure
                 img(src='@/assets/curso/tema4/4-1.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
-              h4 Procedimientos Clave en los Procesos de Pago Hotelero
+              h4 Procedimientos clave en los procesos de pago hotelero
               p En la operación hotelera también es importante cumplir procedimientos relacionados con:
               ul.lista-ul--color.ms-3
                 li.mb-1.d-flex

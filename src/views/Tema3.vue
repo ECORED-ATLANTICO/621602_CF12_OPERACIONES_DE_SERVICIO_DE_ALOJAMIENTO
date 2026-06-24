@@ -131,19 +131,19 @@
             tbody
               tr.bg-color-white
                 td.text-bold Procesamiento de pagos
-                td Validación de transacciones electrónicas.
+                td Validación de transacciones electrónicas
               tr.bg-color-sintesis
                 td.text-bold Confirmación automática
-                td Verificación inmediata del pago.
+                td Verificación inmediata del pago
               tr.bg-color-white
                 td.text-bold Integración con PMS
-                td Actualización automática de cuentas huésped.
+                td Actualización automática de cuentas huésped
               tr.bg-color-sintesis
                 td.text-bold Facturación digital
-                td Generación de comprobantes electrónicos.
+                td Generación de comprobantes electrónicos
               tr.bg-color-white
                 td.text-bold Seguridad transaccional
-                td Protección básica de operaciones financieras.
+                td Protección básica de operaciones financieras
 
     .row.justify-content-center.mb-5
       .col-lg-12
