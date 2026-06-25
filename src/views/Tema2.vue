@@ -262,7 +262,7 @@
           span Principales inconsistencias en procesos de pago hotelero
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/12.png", alt="La figura ilustra las principales inconsistencias en proceso de pago hotelero que pueden afectar los procesos de cobro y facturación dentro de los establecimientos de alojamiento. Las principales inconsistencias son: cobros duplicados, diferencias de caja, pagos rechazados, errores de digitación, fallas de conexión, facturación incorrecta y cargos no registrados.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/12-1.png", alt="La figura ilustra las principales inconsistencias en proceso de pago hotelero que pueden afectar los procesos de cobro y facturación dentro de los establecimientos de alojamiento. Las principales inconsistencias son: cobros duplicados, diferencias de caja, pagos rechazados, errores de digitación, fallas de conexión, facturación incorrecta y cargos no registrados.")
-        figcaption Fuente: SENA, (2026).
+        figcaption Nota: SENA, (2026).
     
     .bg-fondo-7.mb-5.p-4
       .row.align-items-center.justify-content-end
@@ -306,7 +306,7 @@
           span Buenas prácticas de atención al huésped durante el proceso de pago
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/17.png", alt="La figura ilustra las buenas prácticas de atención al huésped durante el proceso de pago. En la misma se detallan ocho prácticas que favorecen la atención clara cordial y organizada al cliente al momento de pagar su estadía. Estas ocho prácticas son: verificar la cuenta, explicar los cargos, confirmar los datos, ofrecer opciones de pago, resolver dudas con actitud de servicio, garantizar confidencialidad, entregar soportes y comprobantes y finalizar con amabilidad.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/17-1.png", alt="La figura ilustra las buenas prácticas de atención al huésped durante el proceso de pago. En la misma se detallan ocho prácticas que favorecen la atención clara cordial y organizada al cliente al momento de pagar su estadía. Estas ocho prácticas son: verificar la cuenta, explicar los cargos, confirmar los datos, ofrecer opciones de pago, resolver dudas con actitud de servicio, garantizar confidencialidad, entregar soportes y comprobantes y finalizar con amabilidad.")
-        figcaption Fuente: SENA, (2026).
+        figcaption Nota: SENA, (2026).
     
     .row.justify-content-center.align-items-center.mb-5
       .col-md-6.col-lg-2.mb-3.mb-lg-0
