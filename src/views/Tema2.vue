@@ -54,7 +54,7 @@
                 | Al momento de la reserva.
               li.mb-1.d-flex
                 i.fas.fa-circle.fa-xs.mt-2.bg-color-6
-                | Durante el <em>check-in</em>.
+                p.mb-0 Durante el <em>check-in</em>.
               li.mb-1.d-flex
                 i.fas.fa-circle.fa-xs.mt-2.bg-color-6
                 | Durante la estadía.

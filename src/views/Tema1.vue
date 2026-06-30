@@ -188,10 +188,10 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 A continuación, le compartimos el enlace del siguiente video para su consulta que aborda el procedimiento de confirmación y manejo de pago virtual (no presencial):  
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=zkAIxjlqmV4&t=10s" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=CL-B3iv_L3U" target="_blank")
                     span Ir al video
                     i.fa-brands.fa-youtube
-    
+
     separador
     
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
